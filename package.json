@@ -8,5 +8,8 @@
     "url": "https://github.com/fjlJENNY/HomePage",
     "type": "git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
