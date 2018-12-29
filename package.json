@@ -1,0 +1,12 @@
+{
+  "name": "homePage",
+  "version": "1.0.0",
+  "description": "www.fanjianlin.com   homepage",
+  "main": "server.js",
+  "author": "Jenny Martin",
+  "repository": {
+    "url": "https://github.com/fjlJENNY/HomePage",
+    "type": "git"
+  },
+  "license": "MIT"
+}
